@@ -1,0 +1,9 @@
+.idea/
+data/bedroom_*
+data/dtd*
+__pycache__/
+_cache_.*
+outputs/
+*.log
+*.out
+
